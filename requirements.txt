@@ -1,0 +1,10 @@
+flask
+pandas
+numpy
+torch
+tqdm
+requests
+scikit-learn
+ta
+runpod
+
